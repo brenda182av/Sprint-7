@@ -15,4 +15,5 @@ function Hola() {
 
 function cambiarParrafo2() {
   parrafo2.textContent = "Este ejemplo es para Karina";
+  parrafo2.classList.add("color");
 }
